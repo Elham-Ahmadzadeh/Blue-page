@@ -151,7 +151,7 @@ the items will be in a line */
 
 .button2 {
   letter-spacing: 7px;
-  padding: 11px 8px;
+  padding: 11px 11px;
   font-size: 20px;
 }
 
@@ -336,7 +336,7 @@ p {
 #subject {
   padding: 20px;
   height: 100%;
-  width: 90%;
+  width: 91%;
 }
 #submit {
   background-color: rgba(10, 2, 59, 0.582);
@@ -349,8 +349,8 @@ p {
   margin-left: 10px;
 }
 
-.logo-text span {
-  color: aqua;
+.logo-text span, .contact span {
+  color: aquamarine;
 }
 .contact span {
   display: flex;
