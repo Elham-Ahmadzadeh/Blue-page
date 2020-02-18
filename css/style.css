@@ -245,7 +245,6 @@ p {
 /* FOOTER-CONTENT(BOX1) */
 .footer-content1 {
   width: 100%;
-  height: 28rem;
 }
 .footer-info,
 .contact,
@@ -268,7 +267,7 @@ p {
 /* FOOTER-PART-LINKS */
 .footer-content2 {
   width: 100%;
-  height: 45rem;
+  height: 30rem;
   display: flex;
   justify-content: flex-start;
   align-items: center;
