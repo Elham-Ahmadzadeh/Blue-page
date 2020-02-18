@@ -195,7 +195,7 @@ the items will be in a line */
 }
 .woman-box {
   background-image: url(../img/woman.jpeg);
-  background-position: center 10%;
+  background-position: center 13%;
   background-repeat: no-repeat;
 }
 .man-box {
@@ -206,7 +206,7 @@ the items will be in a line */
 }
 .woman-box,
 .group-image {
-  background-size: 100%;
+  background-size: 80%;
 }
 
 .group-image {
