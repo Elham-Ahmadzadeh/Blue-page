@@ -412,6 +412,8 @@ p {
   }
   .gray-footer {
     flex-direction: row;
+    margin-top: 10px;
+    padding-top: 10px;
   }
   .footer-content1 {
     justify-content: flex-start;
