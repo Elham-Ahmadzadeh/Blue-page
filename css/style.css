@@ -7,7 +7,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(/img/neon.jpeg);
+  background-image: url('/img/neon.jpeg');
   background-repeat: no-repeat;
   background-size: 175%;
   width: 100vw;
@@ -194,11 +194,11 @@ the items will be in a line */
   border-radius: 3%;
 }
 .woman-box {
-  background-image: url(/img/woman.jpeg);
+  background-image: url('/img/woman.jpeg');
   background-position: center 10%;
 }
 .man-box {
-  background-image: url(/img/man.jpeg);
+  background-image: url('/img/man.jpeg');
   background-position: center;
   background-size: 180%;
   background-repeat: no-repeat;
@@ -211,7 +211,7 @@ the items will be in a line */
 .group-image {
   width: 19rem;
   height: 40%;
-  background-image: url(/img/team.jpeg);
+  background-image: url('/img/team.jpeg');
   border-radius: 2%;
 }
 .man-box:hover,
