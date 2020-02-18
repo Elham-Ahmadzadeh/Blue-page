@@ -190,7 +190,7 @@ the items will be in a line */
 .man-box,
 .woman-box {
   height: 50%;
-  width: 60%;
+  width: 76%;
   border-radius: 3%;
 }
 .woman-box {
@@ -210,10 +210,11 @@ the items will be in a line */
 }
 
 .group-image {
-  width: 60%;
+  width: 85%;
   height: 40%;
   background-image: url(../img/team.jpeg);
   border-radius: 2%;
+  background-repeat: no-repeat;
 }
 .man-box:hover,
 .woman-box:hover,
